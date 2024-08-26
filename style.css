@@ -1,0 +1,28 @@
+.btn-warning {
+    margin-left: 800px;
+}
+.carousel-caption{
+    margin-bottom: 130px !important;
+}
+.card-group{
+    display: flex !important;
+    align-content:center !important;
+    
+    
+}
+.section-h2{
+    margin-top: 130px !important;
+}
+.card-list{
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap:  30px;
+}
+.single-card{
+    width: 100% !important;
+    margin-top: 200px !important;
+    background-color: lightgray;
+    height: 500 !important;
+}
